@@ -38,7 +38,7 @@ function generatePassword() {
 }
 
 // second prompt for password criteria 
-var special = comfirm("If you want to include symbols select 'Okay' and if not select 'Cancel' ")
+var special = confirm("If you want to include symbols select 'Okay' and if not select 'Cancel' ")
 if (!special) {
 alert("Password will not contain any symbols");
 
