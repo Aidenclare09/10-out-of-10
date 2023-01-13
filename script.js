@@ -45,21 +45,21 @@ alert("Password will not contain any symbols");
 }
 
 // third prompt for password criteria 
-var numbersymbols = comfirm("If you want to include numbers select 'Okay' and if not select 'Cancel' ")
+var numbersymbols = confirm("If you want to include numbers select 'Okay' and if not select 'Cancel' ")
 if (!numbersymbols) {
   alert("Password will not contain any numbers");
   
 }
 
 // fourth prompt for password criteria 
-var uppercase = comfirm("If you want to include uppercase letters select 'Okay' and if not select 'Cancel' ")
+var uppercase = confirm("If you want to include uppercase letters select 'Okay' and if not select 'Cancel' ")
 if (!upcase) {
   alert("Password will not contain any Uppercase letters");
   
 }
 
 // fifth prompt for password criteria 
-var lowercase = comfirm("If you want to include lowercase letters select 'Okay' and if not select 'Cancel' ")
+var lowercase = confirm("If you want to include lowercase letters select 'Okay' and if not select 'Cancel' ")
 if (!lowcase) {
   alert("Password will not contain any Lowercase letters");
   
