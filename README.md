@@ -6,4 +6,5 @@ https://aidenclare09.github.io/10-out-of-10/
 
 # Screenshots
 
-<img width="1440" alt="Screen Shot 2023-01-12 at 10 36 46 PM" src="https://user-images.githubusercontent.com/119896626/212231557-6e90e848-d4cb-4d93-b215-1cb6c46218b3.png">
+<img width="1133" alt="Screen Shot 2023-01-12 at 10 36 52 PM" src="https://user-images.githubusercontent.com/119896626/212231626-cf978632-5a97-4d8f-b8be-d0843c91c3c4.png">
+
